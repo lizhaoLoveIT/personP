@@ -7,6 +7,6 @@
 //
 
 
-@interface OrderList : BaseModel
+@interface OrderList : NSObject
 
 @end
